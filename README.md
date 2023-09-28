@@ -7,7 +7,7 @@ Este script permite procesar y enriquecer un conjunto de datos con direcciones e
 - Cargar datos desde un archivo CSV.
 - Preprocesar los datos para normalizar los nombres de las columnas y los valores de las direcciones.
 - Utilizar la API de Georef para normalizar y geolocalizar direcciones fuera de la Ciudad Autónoma de Buenos Aires (CABA).
-- Utilizar las APIs de USIG para normalizar, geolocalizar y obtener información adicional (como barrio y comuna) para direcciones dentro de CABA.
+- Utilizar las APIs de USIG para normalizar, geolocalizar y obtener información adicional (como barrio y comuna) para direcciones en el AMBA.
 - Combinar los resultados con el conjunto de datos original y visualizarlo.
 
 ## Archivo de entrada
