@@ -32,18 +32,23 @@ Roca 123,Buenos Aires,Quilmes
 1) Asegúrate de tener Python instalado y configurado en tu máquina.
 2) Clona este repositorio:
 
-```python
-git clone [URL_DEL_REPOSITORIO]
+```bash
+git clone https://github.com/oblitterator/normalizador_domicilios_arg.git
 ```
 
-3) Instala las dependencias necesarias:
+3) Cambia al directorio del repositorio clonado:
+```bash
+cd normalizador_domicilios_arg
+```
+
+4) Instala las dependencias necesarias:
 ```python
 pip install pandas requests
 ```
 
-4) Ejecuta el script:
+5) Ejecuta el script:
 ```python
-python python [NOMBRE_DEL_ARCHIVO].py
+python normalizador_domicilios_arg.py
 ```
 
 ## Dependencias
