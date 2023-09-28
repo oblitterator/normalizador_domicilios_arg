@@ -16,7 +16,7 @@ El archivo de entrada debe ser un CSV con las siguientes columnas:
 
 - `direccion`: La dirección que quieres normalizar y geolocalizar.
 - `provincia`: La provincia donde se encuentra la dirección.
-- `departamento` (opcional): El departamento o partido donde se encuentra la dirección.
+- `departamento`: El departamento o partido donde se encuentra la dirección.
 
 Ejemplo de contenido del archivo CSV:
 
@@ -43,7 +43,7 @@ pip install pandas requests
 
 4) Ejecuta el script:
 ```python
-python [NOMBRE_DEL_ARCHIVO].py
+python python [NOMBRE_DEL_ARCHIVO].py
 ```
 
 ## Dependencias
@@ -59,4 +59,6 @@ python [NOMBRE_DEL_ARCHIVO].py
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas. Si encuentras un bug o tienes alguna sugerencia, por favor abre un issue o realiza un pull request.
+Las contribuciones son bienvenidas. Si encuentras un bug o tienes alguna sugerencia, por favor abre un issue o realiza un pull request. Los cafecitos también:
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/nievejuan21)
