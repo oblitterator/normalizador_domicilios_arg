@@ -16,7 +16,8 @@ El archivo de entrada debe ser un CSV con las siguientes columnas:
 
 - `direccion`: La dirección que quieres normalizar y geolocalizar.
 - `provincia`: La provincia donde se encuentra la dirección.
-- `departamento`: El departamento o partido donde se encuentra la dirección.
+- `departamento` (opcional para domicilios de la CABA): El departamento o partido donde se encuentra la dirección.
+
 
 Ejemplo de contenido del archivo CSV:
 
